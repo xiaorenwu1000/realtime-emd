@@ -1,6 +1,0 @@
-;emd~.def
-
-LIBRARY emd~
-
-EXPORTS
-	main
